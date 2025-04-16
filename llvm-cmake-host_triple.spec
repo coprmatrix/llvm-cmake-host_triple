@@ -1,6 +1,6 @@
-Source: https://raw.githubusercontent.com/llvm/llvm-project/main/llvm/cmake/modules/GetHostTriple.cmake
+Version: 20.1.2
+Source: https://raw.githubusercontent.com/llvm/llvm-project/refs/tags/llvmorg-%{version}/llvm/cmake/modules/GetHostTriple.cmake
 Name: llvm-cmake-host_triple
-Version: 1
 Release: 0
 License: GPLv3
 Summary: Missing GetHostTriple cmake file
